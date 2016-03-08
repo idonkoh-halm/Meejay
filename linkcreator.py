@@ -29,13 +29,14 @@ def m3u_generator(filename='playlist.txt'):
     text_output=Text_Output(filename)
     text_output.new_text(newlink)
 
-m3u_generator()
+#m3u_generator()
 
 def texttohtml():
     directory="http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/JetSetRadio/"
     text=raw_input('Enter normie text here')
-    newlink= directory+urllib2.quote(text)+".mp3"
+    newlink=directory+urllib2.quote(text)+".mp3"
     print newlink
-    return newlink
+
 
 texttohtml()
+
