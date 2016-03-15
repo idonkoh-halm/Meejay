@@ -37,15 +37,15 @@ song_data = {
     'Rap' : ['Some rap song'],
     }
 
-def texttohtml():
-    directory="http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/JetSetRadio/"
-    text=raw_input('Enter normie text here')
-    newlink=directory+urllib2.quote(text)+".mp3"
-    print newlink
+#def texttohtml():
+#    directory="http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/JetSetRadio/"
+#    text=raw_input('Enter normie text here')
+#    newlink=directory+urllib2.quote(text)+".mp3"
+#    print newlink
 
 
 # Hinkle's reworking of above..
-def texttohtml (text, directory="http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/JetSetRadio/"):
+def texttohtml (text, directory="http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/"):
     newlink=directory+urllib2.quote(text)+".mp3"
     return newlink
 
@@ -55,7 +55,8 @@ def get_url_from_user ():
 
 
 
-
+texttohtml("touch and go")
+get_url_from_user()
 
 
 #texttohtml()
