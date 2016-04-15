@@ -19,7 +19,7 @@ class Text_Output:
     def finish(self):
         self.f.close()
 
-def generate_m3u():
+def generate_m3u(m3u_name,songs):
     "Takes what is generated from make html, and generates an .m3u"
 # Hinkle's reworking of above..
     def make_html (song_path, directory): #="http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/"):
@@ -31,17 +31,23 @@ def generate_m3u():
         return newlink
         text_output=Text_Output()
         text_output.new_text(newlink)
-    pla = open("mar17.m3u", "wb")
+    playlistname=m3u_name+".m3u"
+    pla = open(playlistname, "wb")
+
     print "Name of the file: ", pla.name
-    pla.write(str(make_html('idk',"http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/")))
+    for song in songs:
+        pla.write(str(make_html(song,"/Users/programmer/Documents/Meejay/Music Directory/%s/"%m3u_name)))
+        pla.write('\n')
     pla.close()
 
-song_data = {
-    'Rock':['Possum Kingdom','Another one Bites the Dust',],
-    'Rap' : ['Ultralight Beam','SNDLSCH in Vegas'],
-    'Jazz' : ['Pebble Beach'],
-    }
 
+song_data = {
+    'Rock':['The Toadies - Possum Kingdom','Queen - Another One Bites the Dust',],
+    'Rap' : ['01 Ultralight Beam','Lupe Fiasco - SNDCLSH in Vegas'],
+    'Jazz' : ['Vince Guaraldi Trio - Pebble Beach'],
+    }
+for genre,songs in song_data.items():
+    generate_m3u(genre,songs)
 #def texttohtml():
 #    directory="http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/JetSetRadio/"
 #    text=raw_input('Enter normie text here')
@@ -56,7 +62,3 @@ song_data = {
 #texttohtml("touch and go")
 #get_url_from_user()
 #m3u_generator('playlist.txt')
-
-
-
-
