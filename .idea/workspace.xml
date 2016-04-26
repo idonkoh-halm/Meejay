@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8952b5e3-6f9a-4e22-96dc-3281515164e7" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Application-Design-Assignments/swig.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Jazz/Tank.mp3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Application-Design-Assignments/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Application-Design-Assignments/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rap.m3u" afterPath="$PROJECT_DIR$/Rap.m3u" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI.html" afterPath="$PROJECT_DIR$/UI.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linkcreator.py" afterPath="$PROJECT_DIR$/linkcreator.py" />
     </list>
     <ignored path="Meejay.iws" />
     <ignored path=".idea/workspace.xml" />
