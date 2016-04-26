@@ -27,7 +27,8 @@ def generate_m3u(m3u_name,songs):
 
     print "Name of the file: ", pla.name
     for song in songs:
-        pla.write(str(make_html(song,"/Users/programmer/Documents/Meejay/Music Directory/%s/"%m3u_name)))
+        pla.write(str(make_html(song,"/Users/programmer/Documents/Meejay/Music Directory/")))
+        #pla.write(str(make_html(song,"/Users/programmer/Documents/Meejay/Music Directory/%s/"%m3u_name)))
         pla.write('\n')
     pla.close()
 # Hinkle's reworking of above..
@@ -51,7 +52,7 @@ def generate_m3us_for_genres(playlist_name, genres):
     generate_m3u(playlist_name,songs)
 
 
-song_data = {
+song_data ={
     'Rock':['The Toadies - Possum Kingdom','Queen - Another One Bites the Dust','Pearl Jam - Life Wasted','The Fratellis - Whistle for the Choir'],
     'Rap' : ['01 Ultralight Beam','Lupe Fiasco - SNDCLSH in Vegas','''Lupe Fiasco - WWJD He'd Prolly LOL Like WTF!!!'''],
     'Jazz' : ['Vince Guaraldi Trio - Pebble Beach','Vince Guaraldi Trio - Christmas Time Is Here (instrumental)',
