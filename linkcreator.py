@@ -52,9 +52,10 @@ def generate_m3us_for_genres(playlist_name, genres):
 
 
 song_data = {
-    'Rock':['The Toadies - Possum Kingdom','Queen - Another One Bites the Dust',],
-    'Rap' : ['01 Ultralight Beam','Lupe Fiasco - SNDCLSH in Vegas'],
-    'Jazz' : ['Vince Guaraldi Trio - Pebble Beach'],
+    'Rock':['The Toadies - Possum Kingdom','Queen - Another One Bites the Dust','Pearl Jam - Life Wasted','The Fratellis - Whistle for the Choir'],
+    'Rap' : ['01 Ultralight Beam','Lupe Fiasco - SNDCLSH in Vegas','''Lupe Fiasco - WWJD He'd Prolly LOL Like WTF!!!'''],
+    'Jazz' : ['Vince Guaraldi Trio - Pebble Beach','Vince Guaraldi Trio - Christmas Time Is Here (instrumental)',
+              'The Seatbelts - COSMOS','The Seatbelts - TOO GOOD TOO BAD','The Seatbelts - Tank!']
     }
 for genre,songs in song_data.items():
     generate_m3u(genre,songs)
