@@ -37,7 +37,6 @@ def make_html (song_path, directory): #="http://googledrive.com/host/0B_QRZ8n8sC
     argument "song_path" is wrapped around the root directory in order to create a proper path name.
     Example: takes word "tank", and changes it to "http://googledrive.com/host/0B_QRZ8n8sCFLdkJTMU1Ed0k3VVk/music/tank"
     '''
-    print directory
     newlink=directory+urllib2.quote(song_path)+".mp3"
     return newlink
     text_output=Text_Output()
@@ -53,11 +52,12 @@ def generate_m3us_for_genres(playlist_name, genres):
 
 
 song_data ={
-    'Rock':['The Toadies - Possum Kingdom','Queen - Another One Bites the Dust','Pearl Jam - Life Wasted','The Fratellis - Whistle for the Choir'],
-    'Rap' : ['01 Ultralight Beam','Lupe Fiasco - SNDCLSH in Vegas','''Lupe Fiasco - WWJD He'd Prolly LOL Like WTF!!!'''],
-    'Jazz' : ['Vince Guaraldi Trio - Pebble Beach','Vince Guaraldi Trio - Christmas Time Is Here (instrumental)',
-              'The Seatbelts - COSMOS','The Seatbelts - TOO GOOD TOO BAD','The Seatbelts - Tank!']
+    'Rock':['%sThe Toadies - Possum Kingdom'%'Rock/','%sQueen - Another One Bites the Dust'%'Rock/','%sPearl Jam - Life Wasted'%'Rock/','%sThe Fratellis - Whistle for the Choir'%'Rock/'],
+    'Rap' : ['%s01 Ultralight Beam'%'Rap/','%sLupe Fiasco - SNDCLSH in Vegas'%'Rap/','''%sLupe Fiasco - WWJD He'd Prolly LOL Like WTF!!!'''%'Rap/'],
+    'Jazz' : ['%sVince Guaraldi Trio - Pebble Beach'%'Jazz/','%sVince Guaraldi Trio - Christmas Time Is Here (instrumental)'%'Jazz/',
+              '%sThe Seatbelts - COSMOS'%'Jazz/','%sThe Seatbelts - TOO GOOD TOO BAD'%'Jazz/','%sThe Seatbelts - Tank!'%'Jazz/']
     }
+
 for genre,songs in song_data.items():
     generate_m3u(genre,songs)
 #def texttohtml():
