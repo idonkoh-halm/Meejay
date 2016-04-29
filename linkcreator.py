@@ -66,9 +66,9 @@ for genre,songs in song_data.items():
 #    newlink=directory+urllib2.quote(text)+".mp3"
 #    print newlink
 
-generate_m3us_for_genres('test-rock-rap',['Rock','Rap'])
-generate_m3us_for_genres('test-just-rock',['Rock'])
-generate_m3us_for_genres('test-jazz-rock',['Rock','Jazz'])
+generate_m3us_for_genres('pytest-rock-rap',['Rock','Rap'])
+generate_m3us_for_genres('pytest-just-rock',['Rock'])
+generate_m3us_for_genres('pytest-jazz-rock',['Rock','Jazz'])
 
 
 #DEPRECATED CODE

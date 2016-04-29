@@ -11,3 +11,10 @@ def getm3u():
         #If it is post
         return str(flask.request.form)
 myapp.run(debug=True)
+
+@myapp('/USER_select_genre',methods=['POST'])
+def genre_get():
+    request.form['genre']
+    genre=request.form['genre']
+    if flask.request.method=='POST':
+        form = file('linkcreator.py','r').read()

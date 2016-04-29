@@ -3,50 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="8952b5e3-6f9a-4e22-96dc-3281515164e7" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Application-Design-Assignments/swig.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/01 Ultralight Beam.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/01-hideki-naganuma-let-mom-sleep.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/01-humming-the-bassline-ds-mix-.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/02-hideki-naganuma-humming-the-bassline.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/05-hideki-naganuma-sneakman.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/08-let-mom-sleep-no-sleep-mix-.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/09-hideki-naganuma-rock-it.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/11-rock-it-on-ds-remix-.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/14-teknopathetic.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Lupe Fiasco - SNDCLSH in Vegas.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Lupe Fiasco - WWJD He'd Prolly LOL Like WTF!!!.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Miles Davis _ John Coltrane - Blue in Green.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Pearl Jam - Life Wasted.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Queen - Another One Bites the Dust.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/RJD2 - Ghostwriter.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Red Garland - Almost Like Being in Love.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Simple Minds - Don't You (Forget About Me).mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Sonny Rollins - God Bless the Child.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/The Fratellis - Whistle for the Choir.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/The Seatbelts - CAT BLUES.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/The Seatbelts - COSMOS.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/The Seatbelts - TOO GOOD TOO BAD.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/The Seatbelts - Tank!.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/The Seatbelts - The EGG and I.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/The Toadies - Possum Kingdom.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi - Christmas Time Is Here (vocal).mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi - Oh, Good Grief!.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi - Skating.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi Trio - Baseball Theme.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi Trio - Blue Charlie Brown.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi Trio - Christmas Time Is Here (instrumental).mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi Trio - Great Pumpkin Waltz.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi Trio - O Nosso Amor.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi Trio - Pebble Beach.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Music Directory/Vince Guaraldi Trio - Thanksgiving Theme.mp3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Application-Design-Assignments/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Application-Design-Assignments/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jazz.m3u" afterPath="$PROJECT_DIR$/Jazz.m3u" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rap.m3u" afterPath="$PROJECT_DIR$/Rap.m3u" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rock.m3u" afterPath="$PROJECT_DIR$/Rock.m3u" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI.html" afterPath="$PROJECT_DIR$/UI.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebUI.py" afterPath="$PROJECT_DIR$/WebUI.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linkcreator.py" afterPath="$PROJECT_DIR$/linkcreator.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-jazz-rock.m3u" afterPath="$PROJECT_DIR$/test-jazz-rock.m3u" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-just-rock.m3u" afterPath="$PROJECT_DIR$/test-just-rock.m3u" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-rock-rap.m3u" afterPath="$PROJECT_DIR$/test-rock-rap.m3u" />
     </list>
     <ignored path="Meejay.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,38 +31,28 @@
       <file leaf-file-name="UI.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+            <state vertical-scroll-proportion="-13.125">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="#linkcreator.py#" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#linkcreator.py#">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebUI.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WebUI.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebUI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.5144404">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linkcreator.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="linkcreator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linkcreator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6159875">
-              <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -118,20 +69,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/playlist.m3u" />
-        <option value="$PROJECT_DIR$/../Application-Design-Assignments/swig.py" />
-        <option value="$PROJECT_DIR$/WebUI.py" />
         <option value="$PROJECT_DIR$/writem3u.py" />
         <option value="$PROJECT_DIR$/mar17.m3u" />
         <option value="$PROJECT_DIR$/mar18.m3u" />
         <option value="$PROJECT_DIR$/Rap.m3u" />
-        <option value="$PROJECT_DIR$/UI.html" />
+        <option value="$PROJECT_DIR$/../Application-Design-Assignments/swig.py" />
         <option value="$PROJECT_DIR$/linkcreator.py" />
+        <option value="$PROJECT_DIR$/UI.html" />
+        <option value="$PROJECT_DIR$/WebUI.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -158,7 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,12 +155,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -218,7 +169,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.linkcreator">
+  <component name="RunManager" selected="Python.WebUI">
     <configuration default="false" name="writem3u" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -417,10 +368,10 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.linkcreator" />
-        <item index="1" class="java.lang.String" itemvalue="Python.WebUI" />
-        <item index="2" class="java.lang.String" itemvalue="Python.writem3u" />
-        <item index="3" class="java.lang.String" itemvalue="Python.swig" />
+        <item index="0" class="java.lang.String" itemvalue="Python.WebUI" />
+        <item index="1" class="java.lang.String" itemvalue="Python.swig" />
+        <item index="2" class="java.lang.String" itemvalue="Python.linkcreator" />
+        <item index="3" class="java.lang.String" itemvalue="Python.writem3u" />
       </list>
     </recent_temporary>
   </component>
@@ -438,25 +389,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="934" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39306358" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32716763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39980638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39884394" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -488,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,43 +748,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Application-Design-Assignments/swig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/#linkcreator.py#">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-rock-rap.m3u">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -850,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -858,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.067567565">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,17 +794,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.067567565">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#linkcreator.py#">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027075812">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Application-Design-Assignments/swig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2166065">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/linkcreator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6159875">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5144404">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
