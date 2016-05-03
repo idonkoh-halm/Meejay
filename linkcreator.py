@@ -20,9 +20,9 @@ class Text_Output:
     def finish(self):
         self.f.close()
 
-def generate_m3u(m3u_name,songs):
+def generate_m3u(playlist_name,songs):
     "Takes what is generated from make html, and generates an .m3u"
-    playlistname=m3u_name+".m3u"
+    playlistname=playlist_name+".m3u"
     pla = open(playlistname, "wb")
 
     print "Name of the file: ", pla.name
@@ -51,6 +51,14 @@ def generate_m3us_for_genres(playlist_name, genres):
     generate_m3u(playlist_name,songs)
 
 
+def generate_m3us_for_genres_samples(playlist_name, genres,sample_count):
+    songs=[]
+    for genre in genres:
+        songs.extend(random.sample(song_data[genre],sample_count))
+    generate_m3u(playlist_name,songs)
+
+
+
 song_data ={
     'Rock':['%sThe Toadies - Possum Kingdom'%'Rock/','%sQueen - Another One Bites the Dust'%'Rock/','%sPearl Jam - Life Wasted'%'Rock/','%sThe Fratellis - Whistle for the Choir'%'Rock/'],
     'Rap' : ['%s01 Ultralight Beam'%'Rap/','%sLupe Fiasco - SNDCLSH in Vegas'%'Rap/','''%sLupe Fiasco - WWJD He'd Prolly LOL Like WTF!!!'''%'Rap/'],
@@ -69,7 +77,10 @@ for genre,songs in song_data.items():
 generate_m3us_for_genres('pytest-rock-rap',['Rock','Rap'])
 generate_m3us_for_genres('pytest-just-rock',['Rock'])
 generate_m3us_for_genres('pytest-jazz-rock',['Rock','Jazz'])
-
+generate_m3us_for_genres_samples('Sample Rock and Jazz',['Rock','Jazz'],1)
+generate_m3us_for_genres_samples('Sample Rock and Jazz2',['Rock','Jazz'],2)
+generate_m3us_for_genres_samples('Sample Rock and Jazz3',['Rock','Jazz'],3)
+generate_m3us_for_genres_samples('Sample All',['Rock','Jazz','Rap'],2)
 
 #DEPRECATED CODE
 #def get_url_from_user ():
