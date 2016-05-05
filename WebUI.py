@@ -15,7 +15,7 @@ def getm3u():
 def genre_get():
     genre1=flask.request.form['genre1']
     genre2=flask.request.form['genre2']
-    lc.generate_m3us_for_genres_samples('html_jazz+rock',[genre1,genre2],2)
+    return flask.send_file(lc.generate_m3us_for_genres_samples('html_jazz+rock',[genre1,genre2],2))
 
 
 myapp.run(debug=True)
